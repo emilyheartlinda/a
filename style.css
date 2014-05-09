@@ -197,8 +197,8 @@ x:-o-prefocus, .lb-overlay img {
     height: 100%;
 }
 body {
-	background-color:FFFFFF;
 	background-image: src="beige.jpg");
+	background-color:FFFFFF;
 	background-attachment: fixed;
 	background-position:top center;
     }
