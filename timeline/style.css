@@ -1,4 +1,10 @@
-
+/* -------------------------------------
+ * For horizontal version, set the
+ * $vertical variable to false
+ * ------------------------------------- */
+/* -------------------------------------
+ * General Style
+ * ------------------------------------- */
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans);
 body {
   max-width: 1200px;
@@ -17,7 +23,9 @@ h2 {
   text-transform: uppercase;
 }
 
-
+/* -------------------------------------
+ * timeline
+ * ------------------------------------- */
 #timeline {
   list-style: none;
   margin: 50px 0 30px 120px;
